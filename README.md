@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vagnerao
+- 👋 Hi, I’m @Vagner
 - 👀 I’m interested in programming and entrepreneurship.
 - 🌱 I’m currently learning web programming
 - 💞️ I’m looking to collaborate on 
